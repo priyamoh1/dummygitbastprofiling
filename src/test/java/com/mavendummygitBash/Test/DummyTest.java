@@ -7,7 +7,7 @@ public class DummyTest {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
-		System.out.println("lalal");
+		System.out.println("gala");
 		
 
 	}
